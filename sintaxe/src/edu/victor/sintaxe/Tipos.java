@@ -28,12 +28,7 @@ public class Tipos {
 
    // Tipos de Referência
    String exemploString = "Olá, Mundo!";  // Exemplo de String (sequência de caracteres)
-   int[] exemploArray = {1, 2, 3, 4, 5};  // Exemplo de Array (coleção de inteiros)
-   
-   // Enumeração
-   enum DiaDaSemana {
-       SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO, DOMINGO
-   }   
+   int[] exemploArray = {1, 2, 3, 4, 5};  // Exemplo de Array (coleção de inteiros)  
    
    public static void main(String[] args) {
        Tipos exemplos = new Tipos();
