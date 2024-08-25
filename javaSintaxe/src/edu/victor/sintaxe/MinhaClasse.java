@@ -1,3 +1,4 @@
+package javaSintaxe.src.edu.victor.sintaxe;
 public class MinhaClasse {
    
    public static void main(String[] args) {
