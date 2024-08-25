@@ -33,12 +33,8 @@ public class Tipos {
    // Enumeração
    enum DiaDaSemana {
        SEGUNDA, TERCA, QUARTA, QUINTA, SEXTA, SABADO, DOMINGO
-   }
-   DiaDaSemana exemploEnum = DiaDaSemana.SEGUNDA; // Exemplo de Enum (um dia da semana)
+   }   
    
-   // Classe
-   MinhaClasse exemploClasse = new MinhaClasse(); // Exemplo de instância de uma classe
-
    public static void main(String[] args) {
        Tipos exemplos = new Tipos();
 
@@ -62,7 +58,6 @@ public class Tipos {
        // Exibindo os valores dos tipos de referência
        System.out.println("String: " + exemplos.exemploString);
        System.out.println("Array: " + java.util.Arrays.toString(exemplos.exemploArray));
-       System.out.println("Enum: " + exemplos.exemploEnum);
 
     }
 }
