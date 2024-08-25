@@ -1,4 +1,13 @@
-package javaSintaxe.src.edu.victor.sintaxe;
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package edu.victor.sintaxe;
+
+/**
+ *
+ * @author victor
+ */
 public class MinhaClasse {
    
    public static void main(String[] args) {

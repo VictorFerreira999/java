@@ -1,7 +1,15 @@
-package javaSintaxe.src.edu.victor.sintaxe;
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package edu.victor.sintaxe;
 
+/**
+ *
+ * @author victor
+ */
 public class Tipos {
-   // Tipos Primitivos
+     // Tipos Primitivos
    byte exemploByte = 127;                // Máximo valor para byte
    short exemploShort = 32000;            // Exemplo de short
    int exemploInt = 100000;               // Exemplo de int
@@ -56,14 +64,5 @@ public class Tipos {
        System.out.println("Array: " + java.util.Arrays.toString(exemplos.exemploArray));
        System.out.println("Enum: " + exemplos.exemploEnum);
 
-       // Chamando método da classe
-       exemplos.exemploClasse.metodo();
-   }
+    }
 }
-
-class MinhaClasse {
-   void metodo() {
-       System.out.println("Método de MinhaClasse chamado.");
-   }
-}
-
