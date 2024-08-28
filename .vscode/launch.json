@@ -4,6 +4,7 @@
    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
    "version": "0.2.0",
    "configurations": [
+
       {
          "type": "java",
          "name": "Current File",
@@ -22,7 +23,13 @@
          "name": "Argumento",
          "request": "launch",
          "mainClass": "edu.victor.sintaxe.Argumento",
-         "projectName": "java_86fb1d40"
+         "projectName": "java_86fb1d40",
+         "args": [
+            "Victor",
+            "Ferreira",
+            "25",
+            "1.75"
+         ]
       },
       {
          "type": "java",
