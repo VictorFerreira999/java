@@ -6,6 +6,13 @@
    "configurations": [
       {
          "type": "java",
+         "name": "Try",
+         "request": "launch",
+         "mainClass": "edu.victor.sintaxe.Try",
+         "projectName": "java_86fb1d40"
+      },
+      {
+         "type": "java",
          "name": "ExemploForArray",
          "request": "launch",
          "mainClass": "ExemploForArray",
