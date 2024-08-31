@@ -6,6 +6,13 @@
    "configurations": [
       {
          "type": "java",
+         "name": "ExemploForArray",
+         "request": "launch",
+         "mainClass": "ExemploForArray",
+         "projectName": "java_86fb1d40"
+      },
+      {
+         "type": "java",
          "name": "Arugumento1",
          "request": "launch",
          "mainClass": "edu.victor.sintaxe.Arugumento1",
